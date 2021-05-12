@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj": {}
+    "C:\\Thami\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj": {
+    "C:\\Thami\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj",
+        "projectUniqueName": "C:\\Thami\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj",
         "projectName": "WebApiTakeUser",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj",
+        "projectPath": "C:\\Thami\\WebApiTakeUser\\WebApiTakeUser\\WebApiTakeUser.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\WebApiTakeUser\\WebApiTakeUser\\obj\\",
+        "outputPath": "C:\\Thami\\WebApiTakeUser\\WebApiTakeUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
